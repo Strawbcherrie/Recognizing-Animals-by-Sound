@@ -1,0 +1,26 @@
+button{
+    background-image: "mic.jpeg";
+    height: 50px;
+    width: 50px;
+    border-radius: 25px;
+    font-size: 30px;
+    background-color: aqua;
+    color: blueviolet;
+}
+
+.copy_right_footer{
+    background-color:darkorchid;
+    color:white;
+    width: 600px;
+    height: 40px;
+    margin-top: 90px;
+
+}
+body{
+    background-color:lavenderblush;
+    border: blueviolet;
+    border-style: groove;
+    border-radius: 2px;
+    margin:30px;
+}
+
